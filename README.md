@@ -9,8 +9,6 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massagli&layout=compact&hide_border=true&title_color=7686A6&text_color=ff91a4&bg_color=0d1117" />
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Massagli&bg_color=0d1117&color=7686A6&line=7686A6&point=E9EAF2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ![Snake animation](https://github.com/Massagli/Massagli/blob/output/github-contribution-grid-snake.svg)
 
   
 <div style="display:flex flex-direction:row">
