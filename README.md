@@ -5,10 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7686A6&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Adriel)](https://git.io/typing-svg)
   
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Massagli&show_icons=true&count_private=true&hide_border=true&title_color=7686A6&icon_color=7686A6&text_color=c9d1d9&bg_color=0d1117" alt="Adriel Massagli github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=massagli&show_icons=true&count_private=true&hide_border=true&title_color=7686A6&icon_color=7686A6&text_color=c9d1d9&bg_color=0d1117" alt="Adriel Massagli github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massagli&layout=compact&hide_border=true&title_color=7686A6&text_color=ff91a4&bg_color=0d1117" />
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Massagli&bg_color=0d1117&color=7686A6&line=7686A6&point=E9EAF2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <div style="display:flex flex-direction:row">
