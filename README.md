@@ -3,33 +3,42 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7686A6&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Adriel)](https://git.io/typing-svg)
-  
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Massagli&show_icons=true&count_private=true&hide_border=true&title_color=7686A6&icon_color=7686A6&text_color=c9d1d9&bg_color=0d1117" alt="Adriel Massagli github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massagli&layout=compact&hide_border=true&title_color=7686A6&text_color=ff91a4&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/MateusSouzaAlves">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Massagli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massagli&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 ##
   
 <div style="display:flex flex-direction:row">
 <h3>Skills</h3>
 
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="60px" padding="20px"/>
-<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="60px" padding="20px"/>
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="60px" margin="20px"/>
-<!--<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="60px"/>
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="60px"/>
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="60px"/>-->
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="60px" margin="20px"/>
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="60px" margin="20px"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="60px" margin="20px"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="60px" margin="20px">
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file -->
+<img alt="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="60px" padding="20px"/>
+<img alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="60px" padding="20px"/>
+<img alt="JS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="60px" margin="20px"/>
+<img alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="60px"/>
+<img alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="60px"/>
+<img alt="Go" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" width="60px"/>
+<img alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="60px"/>
+<!--<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="60px"/>-->
+<img alt="mySql" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="60px" margin="20px"/>
+<img alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="60px"/>
+<img alt="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="60px" padding="20px"/>
+<img  alt="image" src="https://github.com/user-attachments/assets/b3d43fb6-31f5-466b-9a96-f828165ce41f" width="60px" />
+<img alt="git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"n width="60px"/>
+
+
+
 </div>      
 
 ##
 
 <div> 
-  <a href="https://instagram.com/_massagli_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-  target="_blank"></a>
+
   <a href = "mailto:adrielmassagli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrielmassagli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
